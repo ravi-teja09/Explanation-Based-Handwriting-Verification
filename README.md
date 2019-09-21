@@ -7,4 +7,4 @@ Developed a Multi-Task Learning model consisting of Auto-Encoder which maps the 
 
 ### Results
 * The accuracy obtained using Cosine-similarity method for explainability using different datasets:
-! (https://github.com/ravi-teja-sunkara/Explanation-Based-Handwriting-Verification/blob/master/Images/Accuracies.JPG)
+![](https://github.com/ravi-teja-sunkara/Explanation-Based-Handwriting-Verification/blob/master/Images/Accuracies.JPG)
