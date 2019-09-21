@@ -1,0 +1,2 @@
+# Explanation-Based-Handwriting-Verification
+Developed a Multi-Task Learning model consisting of Auto-Encoder which maps the input image to 15 features provided by experts. Designed the model to provide a measure of confidence and explanations for this measure of confidence of whether the given handwritten samples are written by the same or different writer; Explanations were provided using cosine similarity method and probabilistic graphical models.
