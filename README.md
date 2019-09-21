@@ -11,3 +11,10 @@ Developed a Multi-Task Learning model consisting of Auto-Encoder which maps the 
 
 * Explainability using Cosine-Simiarity method:
 ![](https://github.com/ravi-teja-sunkara/Explanation-Based-Handwriting-Verification/blob/master/Images/Explainability%20using%20Cosine%20Similarity.JPG)
+
+### Tools Used
+Jupyter notebook, Google colaboratory with Tesla K80 GPU, tensorflow backend
+
+### Libraries Used in Python
+keras, pgmpy, numpy, pandas, networkx, matplotlib, cosine_similarity from sklearn.metrics.pairwise, ImageDataGenerator from Keras
+
